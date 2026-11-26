@@ -1,12 +1,12 @@
 # DS Materials · Day Wise
 
-Class materials for the **GUVI × HCL Data Science Program**: a pre-read, a setup guide where needed, and a hands-on Colab notebook for each session.
+Class materials for the **GUVI × HCL Data Science Program**: a pre-read PDF and a hands-on Colab notebook for each session.
 
 Designed & Presented by **Santhosh Nagaraj**
 
 ## How to use
 
-1. **Read** the session's Pre-Read PDF before class (about 20 min).
+1. **Read** the session's Pre-Read PDF before class (about 20–30 min).
 2. **Run** the hands-on notebook: click its **Open in Colab** badge, then **File → Save a copy in Drive** so you can edit and keep your work.
 3. **Ask**: bring one question to class.
 
@@ -24,3 +24,13 @@ Designed & Presented by **Santhosh Nagaraj**
 | 08 · Exception Handling | [PDF](Module_01_Introduction_to_Python/Session_08_Exception_Handling/Session08_PreRead_Exception_Handling.pdf) | – | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ai-Santhosh/DS-Materials-Day-Wise/blob/main/Module_01_Introduction_to_Python/Session_08_Exception_Handling/Session08_HandsOn_Exception_Handling.ipynb) |
 | 09 · OOPS | [PDF](Module_01_Introduction_to_Python/Session_09_OOPS/Session09_PreRead_OOPS.pdf) | – | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ai-Santhosh/DS-Materials-Day-Wise/blob/main/Module_01_Introduction_to_Python/Session_09_OOPS/Session09_HandsOn_OOPS.ipynb) |
 | 10 · Polymorphism, JSON & APIs | [PDF](Module_01_Introduction_to_Python/Session_10_Polymorphism_JSON_APIs/Session10_PreRead_Polymorphism_JSON_APIs.pdf) | – | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ai-Santhosh/DS-Materials-Day-Wise/blob/main/Module_01_Introduction_to_Python/Session_10_Polymorphism_JSON_APIs/Session10_HandsOn_Polymorphism_JSON_APIs.ipynb) |
+
+## Module 02 · SQL & Data Warehousing
+
+| Session | Pre-Read | Setup Guide | Hands-On Notebook |
+|---|---|---|---|
+| 11 · Database Fundamentals & Data Warehousing | [PDF](Module_02_SQL_Data_Warehousing/Session_11_Database_Fundamentals_Data_Warehousing/Session11_PreRead_Database_Fundamentals_Data_Warehousing.pdf) | – | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ai-Santhosh/DS-Materials-Day-Wise/blob/main/Module_02_SQL_Data_Warehousing/Session_11_Database_Fundamentals_Data_Warehousing/Session11_HandsOn_Database_Fundamentals_Data_Warehousing.ipynb) |
+| 12 · Basic SQL Commands | [PDF](Module_02_SQL_Data_Warehousing/Session_12_Basic_SQL_Commands/Session12_PreRead_Basic_SQL_Commands.pdf) | – | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ai-Santhosh/DS-Materials-Day-Wise/blob/main/Module_02_SQL_Data_Warehousing/Session_12_Basic_SQL_Commands/Session12_HandsOn_Basic_SQL_Commands.ipynb) |
+| 13 · DML, Aggregations & GROUP BY | [PDF](Module_02_SQL_Data_Warehousing/Session_13_DML_Aggregations_GroupBy/Session13_PreRead_DML_Aggregations_GroupBy.pdf) | – | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ai-Santhosh/DS-Materials-Day-Wise/blob/main/Module_02_SQL_Data_Warehousing/Session_13_DML_Aggregations_GroupBy/Session13_HandsOn_DML_Aggregations_GroupBy.ipynb) |
+| 14 · Joins & Subqueries | [PDF](Module_02_SQL_Data_Warehousing/Session_14_Joins_Subqueries/Session14_PreRead_Joins_Subqueries.pdf) | – | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ai-Santhosh/DS-Materials-Day-Wise/blob/main/Module_02_SQL_Data_Warehousing/Session_14_Joins_Subqueries/Session14_HandsOn_Joins_Subqueries.ipynb) |
+| 15 · CTEs & Window Functions | [PDF](Module_02_SQL_Data_Warehousing/Session_15_CTEs_Window_Functions/Session15_PreRead_CTEs_Window_Functions.pdf) | – | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ai-Santhosh/DS-Materials-Day-Wise/blob/main/Module_02_SQL_Data_Warehousing/Session_15_CTEs_Window_Functions/Session15_HandsOn_CTEs_Window_Functions.ipynb) |
